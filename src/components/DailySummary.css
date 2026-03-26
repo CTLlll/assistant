@@ -1,0 +1,41 @@
+.daily-summary {
+  max-width: 500px;
+}
+
+.daily-summary .date {
+  color: #666;
+  font-size: 14px;
+  margin-top: -12px;
+  margin-bottom: 20px;
+}
+
+.summary-section {
+  margin-bottom: 20px;
+}
+
+.summary-section h4 {
+  font-size: 14px;
+  color: #333;
+  margin-bottom: 10px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #eee;
+}
+
+.summary-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.summary-section li {
+  padding: 6px 0;
+  font-size: 14px;
+  color: #555;
+  border-bottom: 1px dashed #f0f0f0;
+}
+
+.summary-section .empty {
+  color: #ccc;
+  font-size: 13px;
+  font-style: italic;
+}
